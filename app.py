@@ -6,10 +6,12 @@ import altair as alt
 
 
 def main():
-    st.markdown("# Welcome to the Pelo Wolfpack!")
+    st.markdown("# Welcome to Peloton Wrapped!")
     df = get_workout_data()
     st.write(df)
-    plot_distance_over_time(df)
+    st.markdown("## Visualize Workouts by Metric")
+    y_axis = st.selectbox("Choose a variable for the y-axis", ["distance", "calories", "output"], index=0)
+    plot_distance_over_time(df, y_axis)
 
 @st.cache(allow_output_mutation=True)
 def get_workout_data():
@@ -37,13 +39,12 @@ def get_workout_data():
             continue
     return df
 
-def plot_distance_over_time(df):
+def plot_distance_over_time(df, y_axis):
     new_df = df.sort_values(by='start_time', ascending=True).reset_index()
-    new_df['k'] = new_df.index.copy()
+    new_df['workout'] = new_df.index.copy()
     graph = alt.Chart(new_df).mark_bar().encode(
-        x=alt.X('k:Q'),
-        y=alt.Y('distance:Q'),
-        # y=alt.Y(str(y_axis)+":Q"),
+        x=alt.X('workout:Q'),
+        y=alt.Y(str(y_axis)+":Q"),
         color=alt.Color('fitness_discipline'),
         tooltip=['instructor', 'title']
     ).interactive()
