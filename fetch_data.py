@@ -27,3 +27,5 @@ def get_all_workout_data():
             continue
     return df
 
+df = get_all_workout_data()
+df.to_csv('workout_data.csv', index=False)
