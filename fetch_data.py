@@ -3,7 +3,7 @@ import numpy as np
 import pandas as pd
 
 def get_all_workout_data():
-    variables = ['timestamp', 'fitness_discipline', 'title', 'duration', 'instructor', 'calories', 'distance', 'avg_hr']
+    variables = ['timestamp', 'fitness_discipline', 'title', 'duration', 'instructor', 'calories', 'distance']
     workouts = PelotonWorkout.list()
     df = pd.DataFrame(columns=variables)
     for workout in workouts:
@@ -17,7 +17,7 @@ def get_all_workout_data():
             instructor = workout_deets['instructor'].name
             cals = (workout.metrics.calories_summary.__dict__)['value']
             dist = (workout.metrics.distance_summary.__dict__)['value']
-            avg_hr = workout.metrics.heart_rate.average
+            # avg_hr = workout.metrics.heart_rate.average
             if not (cals and dist):
                 continue
             data = [start_time, workout_type, title, duration, instructor, cals, dist, avg_hr]
