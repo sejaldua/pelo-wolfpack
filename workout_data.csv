@@ -1,1 +1,201 @@
 timestamp,fitness_discipline,title,duration,instructor,calories,distance
+2021-08-03 20:36:14+00:00,running,20 min HIIT Run,1200,Becs Gentry,219,2.28
+2021-08-02 18:03:24+00:00,running,30 min J Balvin Run,1800,Robin Arzón,315,3.28
+2021-08-01 15:44:11+00:00,running,45 min Endurance Run,2700,Becs Gentry,420,4.92
+2021-07-30 17:12:49+00:00,running,30 min Tropical House Run,1800,Selena Samuela,334,3.28
+2021-07-29 13:21:49+00:00,running,30 min Intervals Run,1800,Becs Gentry,346,3.39
+2021-07-22 18:59:52+00:00,running,20 min Intervals Run,1200,Chase Tucker,61,0.66
+2021-07-21 18:48:26+00:00,running,45 min Endurance Run,2700,Matt Wilpers,542,5.17
+2021-07-19 19:36:36+00:00,running,45 min HIIT & Hills Run,2700,Becs Gentry,504,5.06
+2021-07-16 18:04:16+00:00,running,20 min HIIT Run,1200,Robin Arzón,212,2.3
+2021-07-15 18:24:17+00:00,running,30 min Intervals Run,1800,Olivia Amato,326,3.43
+2021-07-13 14:11:48+00:00,running,60 min Endurance Run,3600,Becs Gentry,697,6.87
+2021-07-11 17:28:00+00:00,running,30 min Progression Run,1800,Becs Gentry,73,0.18
+2021-07-11 16:53:59+00:00,running,30 min Progression Run,1800,Becs Gentry,355,3.09
+2021-07-09 14:26:08+00:00,running,20 min HIIT Run,1200,Olivia Amato,216,2.25
+2021-07-07 19:29:38+00:00,running,30 min Pop Run,1800,Becs Gentry,324,3.24
+2021-07-06 18:39:12+00:00,running,20 min House Run,1200,Selena Samuela,221,2.09
+2021-07-05 22:28:42+00:00,running,15 min Recovery Run,900,Becs Gentry,120,1.38
+2021-07-05 14:28:54+00:00,running,20 min Pop Run,1200,Becs Gentry,196,2.24
+2021-07-04 15:08:01+00:00,running,30 min HIIT & Hills Run,1800,Becs Gentry,304,3.48
+2021-07-02 14:49:25+00:00,running,30 min Latin Run,1800,Chase Tucker,307,3.42
+2021-07-01 15:35:44+00:00,running,30 min Intervals Run,1800,Becs Gentry,322,3.59
+2021-06-30 14:25:48+00:00,running,45 min Intervals Run,2700,Becs Gentry,468,5.11
+2021-06-30 03:20:10+00:00,walking,20 min Pop Walk,1200,Olivia Amato,100,1.04
+2021-06-28 13:46:30+00:00,running,30 min Progression Run,1800,Selena Samuela,318,3.61
+2021-06-27 12:11:46+00:00,running,20 min Intervals Run,1200,Chase Tucker,233,2.13
+2021-06-24 13:12:19+00:00,running,45 min Progression Run,2700,Becs Gentry,516,5.07
+2021-06-22 13:15:01+00:00,running,20 min HIIT Run,1200,Chase Tucker,227,2.32
+2021-06-21 12:37:23+00:00,running,30 min Intervals Run,1800,Olivia Amato,335,3.42
+2021-06-20 14:10:32+00:00,running,30 min HIIT & Hills Run,1800,Selena Samuela,345,3.19
+2021-06-16 21:21:56+00:00,running,30 min Intervals Run,1800,Olivia Amato,328,3.37
+2021-06-15 12:37:37+00:00,running,30 min HIIT & Hills Run,1800,Becs Gentry,343,3.39
+2021-06-11 13:49:11+00:00,running,45 min HIIT & Hills Run,2700,Becs Gentry,507,5.06
+2021-06-09 18:53:41+00:00,running,20 min HIIT Run,1200,Olivia Amato,219,2.28
+2021-06-08 13:48:31+00:00,running,30 min Intervals Run,1800,Becs Gentry,336,3.28
+2021-06-07 13:27:48+00:00,running,30 min Pop Run,1800,Selena Samuela,343,3.17
+2021-06-02 16:33:53+00:00,running,30 min Breakthrough Run,1800,Olivia Amato,338,3.24
+2021-06-01 11:24:10+00:00,running,30 min Intervals Run,1800,Olivia Amato,354,3.29
+2021-05-28 17:46:55+00:00,running,45 min Intervals Run,2700,Becs Gentry,443,5.01
+2021-05-15 17:01:34+00:00,running,20 min HIIT Run,1200,Chase Tucker,193,2.21
+2021-05-15 00:54:59+00:00,running,30 min Endurance Run,1800,Selena Samuela,289,3.31
+2021-05-13 15:22:07+00:00,running,20 min HIIT Run,1200,Chase Tucker,177,2.12
+2021-05-13 15:01:37+00:00,running,20 min Intervals Run,1200,Selena Samuela,225,2.1
+2021-05-12 13:01:03+00:00,running,30 min EDM Run,1800,Becs Gentry,351,3.34
+2021-05-11 14:03:52+00:00,running,30 min HIIT & Hills Run,1800,Olivia Amato,350,3.25
+2021-05-10 13:01:28+00:00,running,30 min Intervals Run,1800,Rebecca Kennedy,375,3.36
+2021-05-09 14:03:05+00:00,running,30 min HIIT Run,1800,Becs Gentry,361,3.33
+2021-05-07 18:03:08+00:00,running,30 min Hip Hop Run,1800,Selena Samuela,367,3.46
+2021-05-05 13:53:53+00:00,running,45 min Progression Run,2700,Becs Gentry,420,5.1
+2021-05-03 18:51:17+00:00,running,30 min Intervals Run,1800,Olivia Amato,279,3.4
+2021-05-02 15:56:22+00:00,running,45 min Intervals Run,2700,Becs Gentry,344,4.03
+2021-04-30 16:03:27+00:00,running,45 min Endurance Run,2700,Becs Gentry,553,5.0
+2021-04-28 20:53:33+00:00,running,45 min HIIT Run,2700,Becs Gentry,555,5.13
+2021-04-26 14:49:15+00:00,running,45 min EDM Run,2700,Becs Gentry,550,5.1
+2021-04-25 13:58:48+00:00,running,30 min Pop Punk Run,1800,Chase Tucker,364,3.45
+2021-04-23 12:51:43+00:00,running,45 min Intervals Run,2700,Rebecca Kennedy,544,5.02
+2021-04-22 15:20:49+00:00,running,30 min Hip Hop Run,1800,Olivia Amato,310,2.98
+2021-04-21 15:03:07+00:00,running,45 min Intervals Run,2700,Selena Samuela,530,5.06
+2021-04-19 20:57:07+00:00,running,45 min Intervals Run,2700,Becs Gentry,554,5.11
+2021-04-18 13:14:26+00:00,running,30 min Rock Run,1800,Becs Gentry,345,3.35
+2021-04-17 14:14:18+00:00,running,20 min HIIT Run,1200,Olivia Amato,232,2.3
+2021-04-08 20:52:28+00:00,running,45 min Hip Hop Run,2700,Selena Samuela,552,5.03
+2021-04-07 21:05:05+00:00,running,45 min Intervals Run,2700,Selena Samuela,404,3.95
+2021-04-05 16:11:33+00:00,running,30 min HIIT Run,1800,Becs Gentry,341,3.53
+2021-04-04 13:19:40+00:00,running,30 min Intervals Run,1800,Robin Arzón,331,3.39
+2021-04-03 12:24:04+00:00,running,20 min EDM Run,1200,Selena Samuela,216,2.27
+2021-03-31 18:05:54+00:00,running,45 min Progression Run,2700,Selena Samuela,546,5.22
+2021-03-29 12:13:15+00:00,running,30 min HIIT Run,1800,Robin Arzón,350,3.46
+2021-03-28 20:19:34+00:00,running,30 min Pop Punk Run,1800,Chase Tucker,310,3.03
+2021-03-25 13:18:51+00:00,running,30 min Intervals Run,1800,Chase Tucker,355,2.96
+2021-03-22 17:02:20+00:00,running,30 min HIIT Run,1800,Olivia Amato,334,3.33
+2021-03-20 13:14:08+00:00,running,30 min EDM Run,1800,Olivia Amato,346,3.3
+2021-03-17 13:19:14+00:00,running,30 min Intervals Run,1800,Rebecca Kennedy,317,3.24
+2021-03-16 15:13:24+00:00,running,30 min Breakthrough Run,1800,Olivia Amato,345,3.36
+2021-03-15 12:15:10+00:00,running,30 min Endurance Run,1800,Selena Samuela,341,3.49
+2021-03-14 18:19:38+00:00,running,30 min HIIT Run,1800,Chase Tucker,351,3.34
+2021-03-11 17:10:49+00:00,running,30 min Intervals Run,1800,Olivia Amato,357,3.42
+2021-03-10 15:06:44+00:00,running,30 min Intervals Run,1800,Olivia Amato,356,3.37
+2021-03-08 13:11:45+00:00,running,30 min Endurance Run,1800,Selena Samuela,343,2.94
+2021-03-06 14:19:50+00:00,running,20 min Hip Hop Run,1200,Chase Tucker,243,2.27
+2021-03-01 20:10:52+00:00,running,30 min HIIT Run,1800,Rebecca Kennedy,348,3.46
+2021-02-28 15:13:11+00:00,running,30 min Progression Run,1800,Selena Samuela,373,3.44
+2021-02-28 14:41:02+00:00,running,20 min Intervals Run,1200,Olivia Amato,218,2.28
+2021-02-26 19:11:15+00:00,running,30 min Intervals Run,1800,Chase Tucker,366,3.46
+2021-02-24 15:17:06+00:00,running,30 min Intervals Run,1800,Chase Tucker,363,3.46
+2021-02-22 19:02:07+00:00,running,45 min Intervals Run,2700,Selena Samuela,554,5.12
+2021-02-20 14:18:07+00:00,running,30 min Tempo Run,1800,Selena Samuela,367,3.26
+2021-02-19 13:17:50+00:00,running,30 min HIIT Run,1800,Chase Tucker,348,3.15
+2021-02-16 21:19:26+00:00,running,30 min Intervals Run,1800,Selena Samuela,301,3.38
+2021-02-15 18:26:39+00:00,running,30 min Intervals Run,1800,Chase Tucker,242,2.68
+2021-02-13 16:52:25+00:00,running,20 min HIIT Run,1200,Robin Arzón,121,1.27
+2021-02-13 16:12:22+00:00,running,20 min HIIT Run,1200,Selena Samuela,210,2.32
+2021-02-12 19:24:54+00:00,running,20 min Beyoncé Run,1200,Robin Arzón,183,2.05
+2021-02-06 16:20:28+00:00,running,30 min Pop Run,1800,Jess Sims,565,3.22
+2021-02-05 14:45:35+00:00,running,20 min House Run,1200,Olivia Amato,501,2.21
+2021-02-04 18:40:25+00:00,running,45 min Rock Run,2700,Rebecca Kennedy,1127,4.35
+2021-02-03 17:25:54+00:00,running,20 min Intervals Run,1200,Olivia Amato,165,1.33
+2021-02-03 16:59:34+00:00,running,20 min HIIT Run,1200,Adrian Williams,185,1.67
+2021-01-31 19:24:50+00:00,running,10 min Long Run Warm Up,600,Robin Arzón,111,1.09
+2021-01-31 18:53:17+00:00,running,30 min Pop Fun Run,1800,Chase Tucker,328,3.41
+2021-01-25 02:19:12+00:00,running,20 min HIIT Run,1200,Matt Wilpers,221,2.24
+2021-01-25 01:46:02+00:00,running,20 min Pop Fun Run,1200,Robin Arzón,192,1.95
+2021-01-23 03:29:28+00:00,running,30 min Tempo Run,1800,Olivia Amato,215,2.2
+2021-01-23 03:04:41+00:00,running,20 min HIIT Run,1200,Robin Arzón,199,1.99
+2021-01-23 02:33:02+00:00,running,20 min Intervals Run,1200,Selena Samuela,215,2.07
+2021-01-23 01:56:53+00:00,running,30 min Tempo Run,1800,Olivia Amato,327,3.46
+2021-01-19 18:28:00+00:00,running,30 min EDM Run,1800,Chase Tucker,246,2.43
+2021-01-19 18:26:45+00:00,cycling,45 min HIIT & Hills Ride,2700,Hannah Frankson,281,10.06
+2021-01-19 16:54:36+00:00,running,45 min R&B Run,2700,Chase Tucker,448,4.74
+2021-01-18 02:39:08+00:00,running,20 min Intervals Run,1200,Matt Wilpers,201,2.12
+2021-01-18 01:58:16+00:00,running,20 min Intervals Run,1200,Selena Samuela,189,1.9
+2021-01-16 19:34:44+00:00,running,10 min Cool Down Run,600,Selena Samuela,101,1.07
+2021-01-16 19:14:04+00:00,running,20 min HIIT Run,1200,Selena Samuela,204,2.15
+2021-01-15 19:30:23+00:00,running,45 min Intervals Run,2700,Chase Tucker,459,4.85
+2021-01-12 21:07:43+00:00,running,20 min Hip Hop Run,1200,Chase Tucker,209,2.21
+2021-01-12 00:48:13+00:00,running,20 min Pop Run,1200,Chase Tucker,221,2.33
+2021-01-10 22:05:46+00:00,circuit,30 min Bootcamp: Full Body,1800,Rebecca Kennedy,204,1.91
+2021-01-09 18:37:51+00:00,running,30 min HIIT Run,1800,Chase Tucker,293,3.1
+2021-01-07 20:57:15+00:00,running,20 min Intervals Run,1200,Selena Samuela,207,2.19
+2021-01-06 23:04:02+00:00,running,30 min Pop Fun Run,1800,Robin Arzón,324,3.42
+2021-01-05 18:57:53+00:00,running,30 min 2010s Run,1800,Andy Speer,318,3.36
+2021-01-04 17:53:34+00:00,running,30 min HIIT Run,1800,Robin Arzón,310,3.27
+2021-01-03 01:38:39+00:00,circuit,45 min Bootcamp: Core,2700,Chase Tucker,265,2.4
+2021-01-01 21:55:59+00:00,walking,10 min Warm Up Walk,600,Selena Samuela,33,0.34
+2021-01-01 20:34:43+00:00,running,45 min Hip Hop Run,2700,Adrian Williams,467,4.93
+2021-01-01 07:10:50+00:00,walking,20 min Power Walk,1200,Selena Samuela,61,0.65
+2020-12-31 19:35:09+00:00,running,30 min HIIT Run,1800,Adrian Williams,313,3.31
+2020-12-30 20:29:07+00:00,running,20 min Intervals Run,1200,Selena Samuela,219,2.32
+2020-12-29 18:48:52+00:00,running,45 min Endurance Run,2700,Selena Samuela,502,5.05
+2020-12-28 00:02:28+00:00,running,30 min EDM Run,1800,Chase Tucker,326,3.45
+2020-12-18 18:08:08+00:00,running,30 min Intervals Run,1800,Chase Tucker,318,3.36
+2020-12-18 00:49:04+00:00,circuit,30 min Bootcamp: Full Body,1800,Chase Tucker,197,1.84
+2020-12-16 16:26:50+00:00,running,30 min Intervals Run,1800,Chase Tucker,316,3.34
+2020-12-15 17:50:01+00:00,cycling,20 min Afrobeats Ride,1200,Tunde Oyeneyin,107,4.54
+2020-12-14 17:08:09+00:00,cycling,30 min Intervals & Arms Ride,1800,Ben Alldis,110,4.88
+2020-12-12 17:25:13+00:00,running,30 min 2010s Hip Hop Run,1800,Chase Tucker,311,3.17
+2020-12-11 16:28:09+00:00,running,30 min Progression Run,1800,Selena Samuela,312,3.3
+2020-12-10 20:06:04+00:00,running,30 min HIIT Run,1800,Chase Tucker,303,3.21
+2020-12-06 16:55:52+00:00,cycling,30 min Intervals & Arms Ride,1800,Robin Arzón,136,6.01
+2020-12-05 19:26:04+00:00,cycling,30 min Intervals & Arms Ride,1800,Tunde Oyeneyin,125,5.69
+2020-12-02 22:22:20+00:00,cycling,30 min Hip Hop Ride,1800,Tunde Oyeneyin,151,6.58
+2020-11-28 17:50:48+00:00,running,30 min HIIT Run,1800,Becs Gentry,274,2.89
+2020-11-26 18:33:33+00:00,running,73 min 26 sec Just Run,4406,JUST RIDE,615,6.23
+2020-11-25 18:39:01+00:00,running,30 min HIIT Run,1800,Robin Arzón,314,3.16
+2020-11-24 01:09:33+00:00,running,30 min HIIT Run,1800,Chase Tucker,300,3.15
+2020-11-22 22:20:10+00:00,running,20 min HIIT Run,1200,Selena Samuela,211,2.08
+2020-11-21 01:54:35+00:00,running,20 min 2010s Run,1200,Chase Tucker,213,2.23
+2020-11-19 22:20:55+00:00,running,37 min 54 sec Just Run,2274,JUST RIDE,293,3.09
+2020-11-18 16:57:40+00:00,running,37 min Just Run,2220,JUST RIDE,286,3.02
+2020-11-15 00:51:37+00:00,running,10 min Extra Mile,600,Selena Samuela,102,1.08
+2020-11-13 18:29:01+00:00,running,30 min HIIT Run,1800,Chase Tucker,298,3.13
+2020-11-11 22:16:37+00:00,running,48 min 29 sec Just Run,2909,JUST RIDE,389,4.1
+2020-11-07 22:42:25+00:00,running,71 min 6 sec Just Run,4266,JUST RIDE,288,3.04
+2020-11-06 20:40:07+00:00,running,37 min 50 sec Just Run,2270,JUST RIDE,292,3.09
+2020-11-04 22:37:49+00:00,running,18 min 8 sec Just Run,1088,JUST RIDE,197,2.08
+2020-11-04 05:30:25+00:00,walking,45 min Walk + Run,2700,Andy Speer,8,0.08
+2020-11-03 16:36:27+00:00,running,38 min 3 sec Just Run,2283,JUST RIDE,296,3.12
+2020-11-03 00:28:24+00:00,running,33 min 11 sec Just Run,1991,JUST RIDE,70,0.74
+2020-11-02 00:31:31+00:00,running,34 min Just Run,2040,JUST RIDE,254,2.68
+2020-10-23 23:37:04+00:00,running,37 min 31 sec Just Run,2251,JUST RIDE,291,3.08
+2020-10-22 19:18:11+00:00,running,37 min 14 sec Just Run,2234,JUST RIDE,287,3.03
+2020-10-05 01:25:30+00:00,cycling,30 min HIIT Ride,1800,Robin Arzón,172,6.9
+2020-10-01 15:15:24+00:00,running,38 min 14 sec Just Run,2294,JUST RIDE,297,3.13
+2020-09-29 23:34:48+00:00,running,38 min 42 sec Just Run,2322,JUST RIDE,298,3.15
+2020-09-28 17:47:44+00:00,running,56 min 29 sec Just Run,3389,JUST RIDE,476,5.03
+2020-09-26 19:22:47+00:00,running,29 min 50 sec Just Run,1790,JUST RIDE,310,3.27
+2020-09-26 00:23:55+00:00,running,49 min 1 sec Just Run,2941,JUST RIDE,342,3.62
+2020-09-22 02:31:53+00:00,running,10 min Extra Mile,600,Chase Tucker,103,1.09
+2020-09-20 19:59:04+00:00,running,20 min HIIT Run,1200,Chase Tucker,192,1.97
+2020-09-18 16:05:40+00:00,running,45 min EDM Run,2700,Matt Wilpers,430,4.54
+2020-09-16 23:29:33+00:00,running,38 min 19 sec Just Run,2299,JUST RIDE,224,2.36
+2020-09-15 15:52:57+00:00,running,30 min Progression Run,1800,Selena Samuela,292,3.08
+2020-09-09 19:57:41+00:00,running,49 min 35 sec Just Run,2975,JUST RIDE,394,4.16
+2020-09-08 15:16:51+00:00,running,40 min 27 sec Just Run,2427,JUST RIDE,298,3.15
+2020-09-03 23:50:25+00:00,running,30 min 39 sec Just Run,1839,JUST RIDE,318,3.36
+2020-09-01 15:49:59+00:00,running,30 min HIIT Run,1800,Adrian Williams,299,2.84
+2020-08-30 01:57:16+00:00,running,30 min The Weeknd Run,1800,Chase Tucker,319,3.37
+2020-08-28 16:07:19+00:00,running,46 min 2 sec Just Run,2762,JUST RIDE,342,3.62
+2020-08-25 23:19:38+00:00,running,34 min 5 sec Just Run,2045,JUST RIDE,308,3.25
+2020-08-24 20:28:47+00:00,running,60 min 26 sec Just Run,3626,JUST RIDE,506,5.34
+2020-08-22 18:29:42+00:00,running,30 min Endurance Run,1800,Selena Samuela,308,3.25
+2020-08-20 23:15:12+00:00,running,20 min HIIT Run,1200,Chase Tucker,180,1.74
+2020-08-20 21:55:22+00:00,running,26 min 18 sec Just Run,1578,JUST RIDE,229,2.42
+2020-08-19 21:27:46+00:00,running,46 min 46 sec Just Run,2806,JUST RIDE,383,4.04
+2020-08-19 01:56:51+00:00,running,35 min 25 sec Just Run,2125,JUST RIDE,230,2.43
+2020-08-17 20:02:59+00:00,running,75 min 41 sec Just Run,4541,JUST RIDE,617,6.52
+2020-08-16 22:53:31+00:00,running,30 min HIIT Run,1800,Rebecca Kennedy,296,3.0
+2020-08-12 00:25:43+00:00,running,30 min House Run,1800,Selena Samuela,314,3.32
+2020-08-06 21:18:04+00:00,running,5 min Basics: Striders,300,Becs Gentry,5,0.06
+2020-08-06 20:37:39+00:00,running,30 min Pop Run,1800,Selena Samuela,329,3.48
+2020-08-04 23:43:11+00:00,running,10 min Extra Mile,600,Selena Samuela,114,1.2
+2020-08-04 23:03:20+00:00,running,20 min HIIT Run,1200,Robin Arzón,210,2.16
+2020-08-04 00:47:10+00:00,running,30 min Intervals Run,1800,Selena Samuela,305,3.52
+2019-12-15 20:48:45+00:00,running,10 min Warm Up Run,600,Oliver Lee,14,0.15
+2019-12-15 17:18:53+00:00,cycling,30 min Low Impact Ride,1800,Christine D'Ercole,154,6.8
+2019-08-16 03:45:42+00:00,walking,20 min R&B Fun Walk,1200,Chase Tucker,120,1.15
+2018-05-10 19:25:23+00:00,cycling,30 min Low Impact Ride,1800,Christine D'Ercole,133,6.35
+2018-01-05 22:21:48+00:00,cycling,20 min Beginner Ride,1200,Christine D'Ercole,75,3.85
+2017-12-31 21:43:27+00:00,cycling,30 min Advanced Beginner Ride,1800,Christine D'Ercole,122,6.02
+2017-12-28 23:38:11+00:00,cycling,30 min Intervals & Arms Ride,1800,Christine D'Ercole,106,5.21
+2017-11-26 00:00:32+00:00,cycling,30 min Intervals & Arms Ride,1800,Cody Rigsby,128,6.02

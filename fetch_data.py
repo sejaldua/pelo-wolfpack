@@ -20,7 +20,7 @@ def get_all_workout_data():
             # avg_hr = workout.metrics.heart_rate.average
             if not (cals and dist):
                 continue
-            data = [start_time, workout_type, title, duration, instructor, cals, dist, avg_hr]
+            data = [start_time, workout_type, title, duration, instructor, cals, dist]
             df.loc[len(df.index)] = data
         except:
             # print("Uh oh. There was an error fetching data from workout", workout.id)
