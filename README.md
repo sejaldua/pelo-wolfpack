@@ -1,31 +1,7 @@
-## Peloton Client Library
-Hello Peloton! I wanted to thank you for being sane people and utilizing an API to move data around, at the very
-least, from within your web app (I have no idea how you do it on the bike etc).
+# Peloton Client Library
 
-I wrote (see: am writing) this library for a couple reasons, not the least of which is to be able to mess around with
-my workout data, and eventually attempt to build (my first practical idea) an algorithm that predicts target resistance
-to match an instructors cadence/output requirement. For funsies.
+### Configuration
 
-I've tried to be as reasonable as I can in developing this client lib - I lazy load as much data as possible to limit API
-calls, and if you look in your logs, you'll see a header that clearly indicates that this library is making API calls
-(look for `peloton-client-library/` in your logs). I
-have also tried to mimic the paging/granularity that's made by your web UI (going under the assumption that your
-backend is optimsed for those calls) - the last thing I want to do is piss you off! <3
-
-If you have any questions or concerns, please, ping me (I'm not hard to find).
-
-### API Documentation
-This all started out of a curiosity when I looked at a ride details page. I threw open dev tools and .. boom, you've got
-an actual web app that's making API calls to drive the UI. A+, friends.
-
-As I've been poking around in your WebUI, I've essentially been looking at the API calls that are made. I've
-been keeping notes on all of this [here](https://github.com/geudrik/peloton-api/blob/master/API_DOCS.md).
-
-### Using the Client Library
-Utilizing the library is pretty simple. A super quick example is below, with more thorough documentation to follow as I
-find time (this is a side/pet project after all).
-
-#### Configuration
 The library requires a configuration file, whos path is either pulled from the environment variale `PELOTON_CONFIG`,
 or looked for in the hard-coded `~/.config/peloton` (which can be a symlink to a unified config if you have many). The
 only config block that the library looks for is shown below.
@@ -48,7 +24,8 @@ ssl_cert = ''
 
 You may also specify the environment variables `PELOTON_USERNAME` and `PELOTON_PASSWORD` which will take precedence over the config file.
 
-#### Example Usage
+### Example Usage
+
 ```python
 
 >>> from peloton import PelotonWorkout
@@ -70,3 +47,27 @@ You may also specify the environment variables `PELOTON_USERNAME` and `PELOTON_P
 >>> workout.ride.title
 '45 min Max Capacity Ride'
 ```
+
+### Seaborn Visualizations
+
+#### Relational (`scatterplot`, `relplot`, `lineplot`)
+
+<img src='./figures/dist_vs_calories.png' width='400'/><img src='./figures/30min_distance_over_time.png' width='400'/>
+
+#### Distributions (`histplot`, `displot`, `boxplot`, `violinplot`)
+
+<img src='./figures/hist_distance_stack.png' width='400'/><img src='./figures/hist_distance_fill.png' width='400'/>
+
+<img src='./figures/calories_vs_instructor_boxplot.png' width='400'/><img src='./figures/calories_vs_run_type_boxplot.png' width='400'/>
+
+<img src='./figures/instructors_over_time_swarmplot.png' width='400'/><img src='./figures/distance_vs_weekday_violinplot.png' width='400'/>
+
+#### Categorical (`catplot`, `swarmplot`, `stripplot`, `countplot`)
+
+<img src='./figures/class_frequency_by_cat_vars.png' width='400'/><img src='./figures/class_frequency_vs_time_increments.png' width='400'/>
+
+#### Heatmaps / Time-series Data (`heatmap`)
+
+<img src='./figures/github_style_distance_heatmap_calendar.png' width='800'/>
+
+<img src='./figures/month_vs_time_vs_dist_heatmap.png' width='400'/><img src='./figures/weekday_vs_time_vs_dist_heatmap.png' width='400'/>
